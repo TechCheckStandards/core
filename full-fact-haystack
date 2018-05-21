@@ -1,3 +1,6 @@
+This is what we use at Full Fact at the moment when we monitor online news outlets. We will probably be getting rid of the <s> tags, they are meant to split out sentences, but this should happen further downstream.
+
+
 <?xml version='1.0' encoding='utf-8'?>
 <haystack id="slurp:8555189" version="2.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://fullfact.org/static/schema/haystack.xsd">
